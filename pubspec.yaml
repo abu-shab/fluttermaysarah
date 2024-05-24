@@ -38,6 +38,8 @@ dependencies:
   flutter_svg: ^1.0.3
   xml: ^5.0.1
   photo_view: ^0.14.0
+  path_drawing: ^1.0.1
+  http: ^1.2.1
 
 dev_dependencies:
   flutter_test:
